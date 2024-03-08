@@ -14,17 +14,17 @@ One day, while you are at home watching documentaries on nature’s beauty with 
 
 Driven by the duty to deliver the package destined for your neighbour Platony, you step out of your comfort zone and realise that the world isn’t as you imagined. Pollution fills the air and garbage litters every corner of the street. Amidst the plastic and dirt, only one house stands out: Platony's home.
 
-Your neighbour thanks you for the package, which contains seeds, and asks if you want to help him clean the planet and improve the environment. Will you accept his proposal, facing the truth, or will you refuse to leave your blissful ignorance?
+Your neighbour thanks you for the package, which contains seeds, and asks you if you want to help him clean the planet and improve the environment. Will you accept his proposal, facing the truth, or will you refuse to leave your blissful ignorance?
 
 ## Purpose
 
-The provided repository contains the code of the game...
+The provided repository contains the code of the game. This game is based on Plato's Allegory of the Cave and is declined on the 13<sup>th</sup> goal of the 2030 Agenda for Sustainable Development, Climate Action.
+
+This project was made with Phaser 3.
 
 ## Requirements
 
 The descriptions are available only in Italian.
-
-## Components
 
 ## Credits
 
