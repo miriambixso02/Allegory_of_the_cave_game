@@ -36,7 +36,7 @@ This is a project made for the course Computer Graphics Studio for the Bachelor'
 - Casini Francesca
 - Garipova Dariia
 - Giordano Angelo
-- Petruzelli Alessia Nadine
+- Petruzzelli Alessia Nadine
 - Turini Davide
 
 _Polytechnic University of Milan </br>
